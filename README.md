@@ -23,6 +23,10 @@ The dashboard uses VBA macros to dynamically connect and disconnect slicers from
 ## Important
 Enable macros while opening the `.xlsm` file.
 
+## Dashboard Screenshot
+Below is a preview of the Interactive Excel Sales Dashboard:
+![!excel_dashboard.png]
+
 ## Acknowledgement
 Special thanks to Satish Dhawale for guidance and support during the learning process.
 
