@@ -25,7 +25,7 @@ Enable macros while opening the `.xlsm` file.
 
 ## Dashboard Screenshot
 Below is a preview of the Interactive Excel Sales Dashboard:
-![!excel_dashboard.png]
+![Dashboard Preview](excel_dashboard.png)
 
 ## Acknowledgement
 Special thanks to Satish Dhawale for guidance and support during the learning process.
